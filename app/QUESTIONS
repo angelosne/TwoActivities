@@ -1,0 +1,9 @@
+why we use
+private static final String LOG_TAG =
+                       MainActivity.class.getSimpleName();
+               public static final String EXTRA_MESSAGE =
+                       "com.example.twoactivities.extra.MESSAGE";
+
+
+
+intent.getStringExtra
